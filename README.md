@@ -1,4 +1,5 @@
 # ProvaVS
 Projecte de prova
 
-Soc el Werner al projecte del Sergi
+Soc el Sergi
+Soc el Werner i faig un canvi a la branca Test 
